@@ -4,3 +4,20 @@ body {
   color: #333333;
 }
 
+.kartu-profil img {
+  width: 150px;
+  border-radius:50%;
+}
+
+.kartu-profil {
+  width: 300px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: white;
+  border-radiud: 15px;
+  box-shadow: 0px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+
+
